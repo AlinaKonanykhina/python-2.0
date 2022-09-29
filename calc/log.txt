@@ -1,0 +1,5 @@
+Операция <module 'operation' from 'C:\\Users\\Алина\\Desktop\\python\\calc\\operation.py'> выполнена в 2022-09-29 15:47:22.019001, результат: (4, 4, 4, 4)
+Операция <module 'operation' from 'C:\\Users\\Алина\\Desktop\\python\\calc\\operation.py'> выполнена в 2022-09-29 15:47:57.548120, результат: 8
+Операция <module 'operation' from 'C:\\Users\\Алина\\Desktop\\python\\calc\\operation.py'> выполнена в 2022-09-29 15:48:14.535901, результат: 25
+Операция <module 'operation' from 'C:\\Users\\Алина\\Desktop\\python\\calc\\operation.py'> выполнена в 2022-09-29 15:49:05.038054, результат: 0
+Операция <module 'operation' from 'C:\\Users\\Алина\\Desktop\\python\\calc\\operation.py'> выполнена в 2022-09-29 15:49:27.400784, результат: 0.5555555555555556
